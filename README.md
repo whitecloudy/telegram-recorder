@@ -60,7 +60,8 @@ You will need:
 - libspdlog-dev
 - libsqlite3-dev
 - libgtest-dev (Optional, only for unit tests)
-- libssl-dev 
+- libssl-dev
+- libfmt-dev
 - cmake
 
 
